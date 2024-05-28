@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('header.css');
+@import url('home.css');
+@import url('menu.css');
+@import url('testimonials.css');
+@import url('footer.css');
+
+:root {
+    --color-primary-1: #f7f6e4;
+    --color-primary-2: #ffe8b4;
+    --color-primary-3: #f8d477;
+    --color-primary-4: #5f3711;
+    --color-primary-5: #ffcb45;
+    --color-primary-6: #e9a209;
+    --color-neutral-0: #fff;
+    --color-neutral-1: #1d1d1d;  
+}
